@@ -33,8 +33,3 @@
     background-color: #e89d9d;
   }
   
-  .container{
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 1fr 1fr 2fr 3fr;
-  }
