@@ -8,7 +8,7 @@ body{
     background-color: white;
 }
 .container{
-    padding:15px 40px;
+    padding:15px 90px;
     min-width: 800px;
     
 
@@ -90,14 +90,16 @@ main{
     display: grid;
     grid-template-columns: repeat(7,1fr);
     grid-gap: 0.5 em;
-    padding-left: 10p                         x;
-    padding-top: 10px;
-    grid-gap: 1px 뜨묵새 1px;
+    
+    grid-gap: 1px solid 1px;
     
 }
 
 .date{
     height:100px;
+    padding-left: 20px;
+    padding-top: 10px;
+    border:1px solid gray;
 }
 .prev_view{
     background-color: #F9FAFB;
